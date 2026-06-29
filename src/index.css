@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer components {
+  .fintech-card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 1.25rem;
+    box-shadow: 0 4px 24px -4px rgba(15, 23, 42, 0.08);
+  }
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
